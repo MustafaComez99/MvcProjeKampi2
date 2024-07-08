@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>İstatistikler</h2>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card text-white bg-primary">
+                <div class="card-body">
+                    <h5 class="card-title">Toplam Kategori Sayısı</h5>
+                    <p class="card-text">@ViewBag.TotalCategories</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card text-white bg-success">
+                <div class="card-body">
+                    <h5 class="card-title">"Yazılım" Kategorisine Ait Başlık Sayısı</h5>
+                    <p class="card-text">@ViewBag.SoftwareTitlesCount</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card text-white bg-info">
+                <div class="card-body">
+                    <h5 class="card-title">Yazar Adında 'a' Harfi Geçen Yazar Sayısı</h5>
+                    <p class="card-text">@ViewBag.AuthorsWithA</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card text-white bg-warning">
+                <div class="card-body">
+                    <h5 class="card-title">En Fazla Başlığa Sahip Kategori Adı</h5>
+                    <p class="card-text">@ViewBag.MostTitlesCategory</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card text-white bg-danger">
+                <div class="card-body">
+                    <h5 class="card-title">True Olan Kategoriler</h5>
+                    <p class="card-text">@ViewBag.TrueCategoriesCount</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card text-white bg-secondary">
+                <div class="card-body">
+                    <h5 class="card-title">False Olan Kategoriler</h5>
+                    <p class="card-text">@ViewBag.FalseCategoriesCount</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card text-white bg-dark">
+                <div class="card-body">
+                    <h5 class="card-title">Kategoriler Arasındaki Sayısal Fark</h5>
+                    <p class="card-text">@ViewBag.StatusDifference</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

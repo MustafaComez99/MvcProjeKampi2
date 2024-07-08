@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\mvcprojekampi2\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|solutionrelative:mvcprojekampi2\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\mvcprojekampi2\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|solutionrelative:mvcprojekampi2\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\mvcprojekampi2\\mvcprojekampi2\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|solutionrelative:mvcprojekampi2\\views\\statistic\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\mvcprojekampi2\\mvcprojekampi2\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|solutionrelative:mvcprojekampi2\\controllers\\statisticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB4CA0E-6B6B-4BFB-8587-5D9059E064B9}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB4CA0E-6B6B-4BFB-8587-5D9059E064B9}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB4CA0E-6B6B-4BFB-8587-5D9059E064B9}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\businesslayer\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB4CA0E-6B6B-4BFB-8587-5D9059E064B9}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\mvcprojekampi2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|solutionrelative:mvcprojekampi2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\mvcprojekampi2\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|solutionrelative:mvcprojekampi2\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\mvcprojekampi2\\views\\admincategory\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|solutionrelative:mvcprojekampi2\\views\\admincategory\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\mvcprojekampi2\\views\\admincategory\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|solutionrelative:mvcprojekampi2\\views\\admincategory\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\mvcprojekampi2\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC88CA3-9F19-4882-B5EA-7EF8E8506831}|MvcProjeKampi2\\MvcProjeKampi2.csproj|solutionrelative:mvcprojekampi2\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB4CA0E-6B6B-4BFB-8587-5D9059E064B9}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\businesslayer\\validationrules\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB4CA0E-6B6B-4BFB-8587-5D9059E064B9}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validationrules\\categoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\Statistic\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi2\\Views\\Statistic\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\Statistic\\Index.cshtml",
+              "RelativeToolTip": "MvcProjeKampi2\\Views\\Statistic\\Index.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T16:09:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatisticController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Controllers\\StatisticController.cs",
+              "RelativeDocumentMoniker": "MvcProjeKampi2\\Controllers\\StatisticController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Controllers\\StatisticController.cs",
+              "RelativeToolTip": "MvcProjeKampi2\\Controllers\\StatisticController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:14:35.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\AdminCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi2\\Views\\AdminCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\AdminCategory\\Index.cshtml",
+              "RelativeToolTip": "MvcProjeKampi2\\Views\\AdminCategory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T15:15:18.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\BusinessLayer\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\BusinessLayer\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:54:53.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:06:42.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi2\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MvcProjeKampi2\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:53:18.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\AdminCategory\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi2\\Views\\AdminCategory\\AddCategory.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\AdminCategory\\AddCategory.cshtml",
+              "RelativeToolTip": "MvcProjeKampi2\\Views\\AdminCategory\\AddCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T23:10:04.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "MvcProjeKampi2\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "MvcProjeKampi2\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAADMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:29:18.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\AdminCategory\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi2\\Views\\AdminCategory\\EditCategory.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\AdminCategory\\EditCategory.cshtml",
+              "RelativeToolTip": "MvcProjeKampi2\\Views\\AdminCategory\\EditCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:15:13.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Controllers\\AdminCategoryController.cs",
+              "RelativeDocumentMoniker": "MvcProjeKampi2\\Controllers\\AdminCategoryController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Controllers\\AdminCategoryController.cs",
+              "RelativeToolTip": "MvcProjeKampi2\\Controllers\\AdminCategoryController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAEMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:03:58.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\Category\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi2\\Views\\Category\\AddCategory.cshtml",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\MvcProjeKampi2\\Views\\Category\\AddCategory.cshtml",
+              "RelativeToolTip": "MvcProjeKampi2\\Views\\Category\\AddCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T12:21:13.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\BusinessLayer\\ValidationRules\\CategoryValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ValidationRules\\CategoryValidator.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Masa\u00FCst\u00FC\\MvcProjeKampi2\\BusinessLayer\\ValidationRules\\CategoryValidator.cs",
+              "RelativeToolTip": "BusinessLayer\\ValidationRules\\CategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:20:03.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
